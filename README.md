@@ -1,6 +1,6 @@
 ## Welcome to my Github profile!
 
-### My name is Akos, and I'm a React front-end developer.
+### My name is Akos, and I'm a front-end developer.
 
 #### Languages:
 <a href="https://html.spec.whatwg.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height: 40px; width: 40px;" /></a> <a href="https://www.w3.org/TR/CSS/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height: 40px; width: 40px;" /></a> <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height: 40px; width: 40px;" /></a> <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="height: 40px; width: 40px;" /></a>
